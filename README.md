@@ -1,0 +1,2 @@
+# BloodConnectKovai
+ MINI PROJECT
